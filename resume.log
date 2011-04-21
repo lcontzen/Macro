@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.11 (TeX Live 2010/Arch Linux) (format=pdflatex 2011.3.16)  20 APR 2011 15:50
+This is pdfTeX, Version 3.1415926-1.40.11 (TeX Live 2010/Arch Linux) (format=pdflatex 2011.3.16)  21 APR 2011 10:48
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -884,40 +884,68 @@ File: graph32.png Graphic file (type png)
  <use graph32.png>
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [68 <./graph31.png>] [69 <./graph32.png>] [70
+ [68 <./graph31.png>] <graph33.png, id=304, 650.43pt x 335.2525pt>
+File: graph33.png Graphic file (type png)
+ <use graph33.png>
+Underfull \vbox (badness 1348) has occurred while \output is active []
 
-]
+ [69 <./graph32.png>] <graph34.png, id=309, 686.565pt x 233.87375pt>
+File: graph34.png Graphic file (type png)
+ <use graph34.png>
+<graph35.png, id=310, 823.075pt x 409.53pt>
+File: graph35.png Graphic file (type png)
+ <use graph35.png> [70 <./graph33.png> <./graph34.png>] <graph36.png, id=316, 5
+85.18625pt x 341.275pt>
+File: graph36.png Graphic file (type png)
+
+<use graph36.png> [71 <./graph35.png> <./graph36.png>]
+<graph37.png, id=322, 670.505pt x 406.51875pt>
+File: graph37.png Graphic file (type png)
+ <use graph37.png>
+<graph38.png, id=323, 762.85pt x 484.81125pt>
+File: graph38.png Graphic file (type png)
+ <use graph38.png>
+Underfull \vbox (badness 3568) has occurred while \output is active []
+
+ [72 <./graph37.png>] <graph39.png, id=328, 912.40875pt x 449.68pt>
+File: graph39.png Graphic file (type png)
+ <use graph39.png>
+Underfull \vbox (badness 6893) has occurred while \output is active []
+
+ [73 <./graph38.png>] [74 <./graph39.png>]
 Annexe A.
-[71] (./resume.aux) ) 
+[75
+
+] (./resume.aux) ) 
 Here is how much of TeX's memory you used:
- 5083 strings out of 493738
- 65622 string characters out of 3148797
+ 5118 strings out of 493738
+ 66140 string characters out of 3148797
  138656 words of memory out of 3000000
- 8231 multiletter control sequences out of 15000+200000
+ 8259 multiletter control sequences out of 15000+200000
  19273 words of font info for 53 fonts, out of 3000000 for 9000
  714 hyphenation exceptions out of 8191
  38i,8n,24p,1363b,262s stack positions out of 5000i,500n,10000p,200000b,50000s
-{/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t
-1.enc}</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/sh
-are/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texmf-dist
-/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr/share/texmf-dist/fonts/type1/pu
-blic/amsfonts/cm/cmmi7.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/c
-m/cmr10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></us
-r/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texmf-di
-st/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-dist/fonts/type1
-/public/amsfonts/cm/cmsy7.pfb></usr/share/texmf-dist/fonts/type1/public/eurosym
-/feymr10.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb></
-usr/share/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/share/texmf
--dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/share/texmf-dist/fonts/typ
-e1/public/cm-super/sfbx2074.pfb></usr/share/texmf-dist/fonts/type1/public/cm-su
-per/sfbx2488.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pf
-b></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/share/t
-exmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb></usr/share/texmf-dist/fonts
-/type1/public/cm-super/sfti1000.pfb>
-Output written on resume.pdf (71 pages, 1156502 bytes).
+{/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.e
+nc}</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texmf-dist/fo
+nts/type1/public/amsfonts/cm/cmmi5.pfb></usr/share/texmf-dist/fonts/type1/publi
+c/amsfonts/cm/cmmi7.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/c
+mr10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/s
+hare/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texmf-dist/
+fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-dist/fonts/type1/pu
+blic/amsfonts/cm/cmsy7.pfb></usr/share/texmf-dist/fonts/type1/public/eurosym/fe
+ymr10.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb></usr
+/share/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/share/texmf-di
+st/fonts/type1/public/cm-super/sfbx1440.pfb></usr/share/texmf-dist/fonts/type1/
+public/cm-super/sfbx2074.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super
+/sfbx2488.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb><
+/usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/share/texm
+f-dist/fonts/type1/public/cm-super/sfrm1728.pfb></usr/share/texmf-dist/fonts/ty
+pe1/public/cm-super/sfti1000.pfb>
+Output written on resume.pdf (75 pages, 1330795 bytes).
 PDF statistics:
- 378 PDF objects out of 1000 (max. 8388607)
- 217 compressed objects within 3 object streams
+ 406 PDF objects out of 1000 (max. 8388607)
+ 227 compressed objects within 3 object streams
  0 named destinations out of 1000 (max. 500000)
- 166 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 201 words of extra memory for PDF output out of 10000 (max. 10000000)
 

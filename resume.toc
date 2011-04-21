@@ -107,4 +107,11 @@
 \contentsline {paragraph}{\numberline {6.2.2.2.1}Forme de la courbe LM}{66}
 \contentsline {paragraph}{\numberline {6.2.2.2.2}Position de la courbe LM}{67}
 \contentsline {subsection}{\numberline {6.2.3}L'\IeC {\'e}quilibre global}{68}
-\contentsline {chapter}{\numberline {A}Notations}{71}
+\contentsline {section}{\numberline {6.3}La politique \IeC {\'e}conomique dans le mod\IeC {\`e}le IS-LM}{69}
+\contentsline {subsection}{\numberline {6.3.1}La politique mon\IeC {\'e}taire}{69}
+\contentsline {subsubsection}{\numberline {6.3.1.1}Principe de la politique mon\IeC {\'e}taire}{69}
+\contentsline {subsubsection}{\numberline {6.3.1.2}Efficacit\IeC {\'e} de la politique mon\IeC {\'e}taire}{70}
+\contentsline {subsection}{\numberline {6.3.2}La politique budg\IeC {\'e}taire}{72}
+\contentsline {subsubsection}{\numberline {6.3.2.1}Principe de la politique budg\IeC {\'e}taire}{72}
+\contentsline {subsection}{\numberline {6.3.3}Efficacit\IeC {\'e} de la politique budg\IeC {\'e}taire}{73}
+\contentsline {chapter}{\numberline {A}Notations}{75}
