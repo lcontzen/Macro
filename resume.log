@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.11 (TeX Live 2010/Arch Linux) (format=pdflatex 2011.3.16)  21 APR 2011 11:58
+This is pdfTeX, Version 3.1415926-1.40.11 (TeX Live 2010/Arch Linux) (format=pdflatex 2011.3.16)  21 APR 2011 15:29
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -931,8 +931,22 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [76 <./graph41.png>] [77 <./graph42.png>] [78
 
 ]
+Chapitre 7.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1090--1091
+
+ []
+
+[79] [80]
+Underfull \hbox (badness 10000) in paragraph at lines 1120--1124
+
+ []
+
+[81] [82
+
+]
 Annexe A.
-[79] (./resume.aux) ) 
+[83] (./resume.aux) ) 
 Here is how much of TeX's memory you used:
  5133 strings out of 493738
  66362 string characters out of 3148797
@@ -958,10 +972,10 @@ per/sfbx2488.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pf
 b></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/share/t
 exmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb></usr/share/texmf-dist/fonts
 /type1/public/cm-super/sfti1000.pfb>
-Output written on resume.pdf (79 pages, 1419727 bytes).
+Output written on resume.pdf (83 pages, 1430734 bytes).
 PDF statistics:
- 425 PDF objects out of 1000 (max. 8388607)
- 236 compressed objects within 3 object streams
+ 437 PDF objects out of 1000 (max. 8388607)
+ 244 compressed objects within 3 object streams
  0 named destinations out of 1000 (max. 500000)
  216 words of extra memory for PDF output out of 10000 (max. 10000000)
 
