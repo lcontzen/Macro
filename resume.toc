@@ -114,4 +114,7 @@
 \contentsline {subsection}{\numberline {6.3.2}La politique budg\IeC {\'e}taire}{72}
 \contentsline {subsubsection}{\numberline {6.3.2.1}Principe de la politique budg\IeC {\'e}taire}{72}
 \contentsline {subsection}{\numberline {6.3.3}Efficacit\IeC {\'e} de la politique budg\IeC {\'e}taire}{73}
-\contentsline {chapter}{\numberline {A}Notations}{75}
+\contentsline {subsection}{\numberline {6.3.4}Le policy-mix}{76}
+\contentsline {subsubsection}{\numberline {6.3.4.1}Politique budg\IeC {\'e}taire expansionniste accompagn\IeC {\'e}e d'une politique mon\IeC {\'e}taire restrictive}{76}
+\contentsline {subsubsection}{\numberline {6.3.4.2}Politique budg\IeC {\'e}taire expansionniste accompagn\IeC {\'e}e d'une politique mon\IeC {\'e}taire expansionniste}{76}
+\contentsline {chapter}{\numberline {A}Notations}{79}
