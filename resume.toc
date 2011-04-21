@@ -1,0 +1,110 @@
+\select@language {french}
+\contentsline {chapter}{\numberline {1}Qu'est ce que la macro\IeC {\'e}conomie?}{5}
+\contentsline {section}{\numberline {1.1}Introduction : une d\IeC {\'e}finition}{5}
+\contentsline {section}{\numberline {1.2}La macro\IeC {\'e}conomie : une discipline scientifique}{5}
+\contentsline {subsection}{\numberline {1.2.1}\IeC {\'E}volution de la macro\IeC {\'e}conomie en tant que discipline}{5}
+\contentsline {subsubsection}{\numberline {1.2.1.1}Une discipline jeune}{5}
+\contentsline {subsubsection}{\numberline {1.2.1.2}Une discipline en d\IeC {\'e}bat}{5}
+\contentsline {subsection}{\numberline {1.2.2}Questions m\IeC {\'e}thodologiques}{6}
+\contentsline {subsubsection}{\numberline {1.2.2.1}Ce qu'on attends de la macro\IeC {\'e}conomie}{6}
+\contentsline {subsubsection}{\numberline {1.2.2.2}L'importance de la mod\IeC {\'e}lisation}{7}
+\contentsline {section}{\numberline {1.3}Les principaux agr\IeC {\'e}gats}{7}
+\contentsline {subsection}{\numberline {1.3.1}Flux et stocks}{7}
+\contentsline {subsection}{\numberline {1.3.2}La mesure du revenu}{8}
+\contentsline {subsubsection}{\numberline {1.3.2.1}Le PIB nominal}{8}
+\contentsline {paragraph}{\numberline {1.3.2.1.1}D\IeC {\'e}finition}{8}
+\contentsline {paragraph}{\numberline {1.3.2.1.2}Les trois modes de calcul du PIB}{8}
+\contentsline {paragraph}{\numberline {1.3.2.1.3}L'identit\IeC {\'e} comptable fondamentale}{9}
+\contentsline {subsubsection}{\numberline {1.3.2.2}La comparaison des PIB dans le temps et l'espace}{9}
+\contentsline {paragraph}{\numberline {1.3.2.2.1}Le PIB r\IeC {\'e}el}{10}
+\contentsline {paragraph}{\numberline {1.3.2.2.2}Le PIB \IeC {\`a} parit\IeC {\'e} des pouvoirs d'achat}{10}
+\contentsline {paragraph}{\numberline {1.3.2.2.3}D'autres mesures du revenu}{10}
+\contentsline {subsection}{\numberline {1.3.3}L'inflation}{11}
+\contentsline {subsubsection}{\numberline {1.3.3.1}L'indice des prix \IeC {\`a} la consommation}{11}
+\contentsline {subsubsection}{\numberline {1.3.3.2}La mesure de l'inflation gr\IeC {\^a}ce au d\IeC {\'e}flateur du PIB}{12}
+\contentsline {subsection}{\numberline {1.3.4}Le ch\IeC {\^o}mage}{12}
+\contentsline {subsubsection}{\numberline {1.3.4.1}La distinction entre ch\IeC {\^o}mage, inactivit\IeC {\'e} et emploi}{12}
+\contentsline {subsubsection}{\numberline {1.3.4.2}La difficult\IeC {\'e} de mesurer le ch\IeC {\^o}mage}{12}
+\contentsline {part}{I\hspace {1em}La croissance}{15}
+\contentsline {chapter}{\numberline {2}La croissance par accumulation de ressources}{19}
+\contentsline {section}{\numberline {2.1}Introduction : Les origines}{19}
+\contentsline {section}{\numberline {2.2}Les hypoth\IeC {\`e}ses du mod\IeC {\`e}le de Solow}{19}
+\contentsline {subsection}{\numberline {2.2.1}La fonction de production agr\IeC {\'e}g\IeC {\'e}e}{19}
+\contentsline {subsubsection}{\numberline {2.2.1.1}Une repr\IeC {\'e}sentation simplifi\IeC {\'e}e de la production}{19}
+\contentsline {subsubsection}{\numberline {2.2.1.2}Forme de la fonction de production}{20}
+\contentsline {subsection}{\numberline {2.2.2}L'accumulation de capital}{21}
+\contentsline {subsubsection}{\numberline {2.2.2.1}La r\IeC {\'e}partition de la production entre investissement et consommation}{21}
+\contentsline {subsubsection}{\numberline {2.2.2.2}La variation du stock de capital}{21}
+\contentsline {section}{\numberline {2.3}La croissance dans le mod\IeC {\`e}le de Solow}{22}
+\contentsline {subsection}{\numberline {2.3.1}L'\IeC {\'e}tat stationnaire}{22}
+\contentsline {subsection}{\numberline {2.3.2}La convergence vers l'\IeC {\'e}tat stationnaire}{23}
+\contentsline {section}{\numberline {2.4}La relation entre croissance et \IeC {\'e}pargne}{23}
+\contentsline {subsection}{\numberline {2.4.1}L'absence de relation entre \IeC {\'e}pargne et croissance \IeC {\`a} l'\IeC {\'e}tat stationnaire}{24}
+\contentsline {subsection}{\numberline {2.4.2}Une relation croissante entre \IeC {\'e}pargne et croissance hors de l'\IeC {\'e}tat stationnaire}{25}
+\contentsline {chapter}{\numberline {3}Le r\IeC {\^o}le du progr\IeC {\`e}s technique dans la croissance}{27}
+\contentsline {section}{\numberline {3.1}Introduction : Les origines}{27}
+\contentsline {section}{\numberline {3.2}Une mesure de la part du progr\IeC {\`e}s dans la croissance}{27}
+\contentsline {subsection}{\numberline {3.2.1}Construction du r\IeC {\'e}sidu de Solow}{27}
+\contentsline {subsection}{\numberline {3.2.2}La part du progr\IeC {\`e}s technique dans la croissance}{28}
+\contentsline {section}{\numberline {3.3}Le progr\IeC {\`e}s technique dans le mod\IeC {\`e}le de Solow}{28}
+\contentsline {subsection}{\numberline {3.3.1}Effet d'une croissance ponctuelle de la productivit\IeC {\'e}}{28}
+\contentsline {subsection}{\numberline {3.3.2}La prise en compte d'un augmentation tendancielle de la productivit\IeC {\'e}}{30}
+\contentsline {section}{\numberline {3.4}Les d\IeC {\'e}terminants du progr\IeC {\`e}s technique}{31}
+\contentsline {subsection}{\numberline {3.4.1}L'investissement dans la recherche}{31}
+\contentsline {subsubsection}{\numberline {3.4.1.1}Motivation des investissements en R\&D}{31}
+\contentsline {subsection}{\numberline {3.4.2}L'efficacit\IeC {\'e} des efforts de recherche}{31}
+\contentsline {subsubsection}{\numberline {3.4.2.1}Facteurs institutionnels}{31}
+\contentsline {subsubsection}{\numberline {3.4.2.2}Le caract\IeC {\`e}re cumulatif des connaissances}{32}
+\contentsline {part}{II\hspace {1em}L'\IeC {\'e}conomie dans le court terme : les fluctuations}{33}
+\contentsline {chapter}{\numberline {4}Le march\IeC {\'e} des biens}{37}
+\contentsline {section}{\numberline {4.1}Introduction : L'importance de la demande de biens}{37}
+\contentsline {section}{\numberline {4.2}Les composantes de la demande}{37}
+\contentsline {subsection}{\numberline {4.2.1}La consommation}{37}
+\contentsline {subsubsection}{\numberline {4.2.1.1}La consommation : une fonction du revenu courant}{37}
+\contentsline {subsubsection}{\numberline {4.2.1.2}La consommation : une fonction des revenus futurs}{38}
+\contentsline {subsection}{\numberline {4.2.2}L'investissement}{40}
+\contentsline {subsubsection}{\numberline {4.2.2.1}L'investissement : une fonction du taux d'int\IeC {\'e}r\IeC {\^e}t}{40}
+\contentsline {subsubsection}{\numberline {4.2.2.2}L'investissement : une fonction de la demande et des anticipations}{40}
+\contentsline {subsection}{\numberline {4.2.3}Les d\IeC {\'e}penses de l'\IeC {\'e}tat}{41}
+\contentsline {section}{\numberline {4.3}L'\IeC {\'e}quilibre sur le march\IeC {\'e} des biens}{41}
+\contentsline {subsection}{\numberline {4.3.1}Le diagramme \IeC {\`a} 45 degr\IeC {\'e}s}{41}
+\contentsline {subsection}{\numberline {4.3.2}Le multiplicateur}{43}
+\contentsline {chapter}{\numberline {5}Le march\IeC {\'e} de la monnaie et les march\IeC {\'e}s financiers}{47}
+\contentsline {section}{\numberline {5.1}Introduction : Ce qu'est la monnaie et ce qu'elle n'est pas}{47}
+\contentsline {section}{\numberline {5.2}L'offre de monnaie}{47}
+\contentsline {subsection}{\numberline {5.2.1}Fonctions et formes de la monnaie}{47}
+\contentsline {subsubsection}{\numberline {5.2.1.1}Les trois fonctions de la monnaie}{47}
+\contentsline {subsubsection}{\numberline {5.2.1.2}L'\IeC {\'e}volution des formes de la monnaie}{48}
+\contentsline {subsubsection}{\numberline {5.2.1.3}La mesure de l'offre de monnaie}{48}
+\contentsline {subsection}{\numberline {5.2.2}La cr\IeC {\'e}ation mon\IeC {\'e}taire}{48}
+\contentsline {subsubsection}{\numberline {5.2.2.1}La cr\IeC {\'e}ation mon\IeC {\'e}taire en l'absence de banques commerciales}{48}
+\contentsline {subsubsection}{\numberline {5.2.2.2}La cr\IeC {\'e}ation mon\IeC {\'e}taire en pr\IeC {\'e}sence de banques commerciales}{49}
+\contentsline {subsection}{\numberline {5.2.3}Les moyens de contr\IeC {\^o}le de l'offre de monnaie}{51}
+\contentsline {section}{\numberline {5.3}La demande de monnaie}{52}
+\contentsline {subsection}{\numberline {5.3.1}La th\IeC {\'e}orie quantitative de la monnaie}{52}
+\contentsline {subsubsection}{\numberline {5.3.1.1}La quantit\IeC {\'e} de monnaie n\IeC {\'e}cessaire aux transactions}{52}
+\contentsline {subsubsection}{\numberline {5.3.1.2}La relation entre la masse mon\IeC {\'e}taire et les prix}{53}
+\contentsline {subsection}{\numberline {5.3.2}La pr\IeC {\'e}f\IeC {\'e}rence pour la liquidit\IeC {\'e}}{54}
+\contentsline {subsubsection}{\numberline {5.3.2.1}Le motif de transaction}{54}
+\contentsline {subsubsection}{\numberline {5.3.2.2}Le motif de pr\IeC {\'e}caution}{54}
+\contentsline {subsubsection}{\numberline {5.3.2.3}Le motif de sp\IeC {\'e}culation}{54}
+\contentsline {subsubsection}{\numberline {5.3.2.4}La fonction de demande de liquidit\IeC {\'e}}{55}
+\contentsline {section}{\numberline {5.4}La d\IeC {\'e}termination du taux d'int\IeC {\'e}r\IeC {\^e}t}{57}
+\contentsline {subsection}{\numberline {5.4.1}L'\IeC {\'e}quilibre sur le march\IeC {\'e} de la monnaie}{57}
+\contentsline {subsection}{\numberline {5.4.2}L'impact d'une augmentation de l'offre de monnaie}{58}
+\contentsline {subsection}{\numberline {5.4.3}L'impact d'une augmentation du revenu}{58}
+\contentsline {chapter}{\numberline {6}Le mod\IeC {\`e}le IS-LM}{61}
+\contentsline {section}{\numberline {6.1}Introduction}{61}
+\contentsline {section}{\numberline {6.2}Construction du diagramme IS-LM}{61}
+\contentsline {subsection}{\numberline {6.2.1}La courbe IS}{61}
+\contentsline {subsubsection}{\numberline {6.2.1.1}Pourquoi IS est d\IeC {\'e}croissante}{61}
+\contentsline {subsubsection}{\numberline {6.2.1.2}Forme et position de la courbe IS}{62}
+\contentsline {paragraph}{\numberline {6.2.1.2.1}Forme de la courbe IS}{63}
+\contentsline {paragraph}{\numberline {6.2.1.2.2}Position de la courbe IS}{64}
+\contentsline {subsection}{\numberline {6.2.2}La courbe LM}{65}
+\contentsline {subsubsection}{\numberline {6.2.2.1}Pourquoi LM est croissante}{65}
+\contentsline {subsubsection}{\numberline {6.2.2.2}Forme et position de la courbe LM}{66}
+\contentsline {paragraph}{\numberline {6.2.2.2.1}Forme de la courbe LM}{66}
+\contentsline {paragraph}{\numberline {6.2.2.2.2}Position de la courbe LM}{67}
+\contentsline {subsection}{\numberline {6.2.3}L'\IeC {\'e}quilibre global}{68}
+\contentsline {chapter}{\numberline {A}Notations}{71}
