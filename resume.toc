@@ -119,7 +119,7 @@
 \contentsline {subsubsection}{\numberline {6.3.4.2}Politique budg\IeC {\'e}taire expansionniste accompagn\IeC {\'e}e d'une politique mon\IeC {\'e}taire expansionniste}{76}
 \contentsline {chapter}{\numberline {7}Le march\IeC {\'e} du travail}{79}
 \contentsline {section}{\numberline {7.1}Introduction : les diff\IeC {\'e}rences internationales de taux de ch\IeC {\^o}mage}{79}
-\contentsline {section}{\numberline {7.2}Description d'un march\IeC {\'e} du travail concurentiel}{79}
+\contentsline {section}{\numberline {7.2}Description d'un march\IeC {\'e} du travail concurrentiel}{79}
 \contentsline {subsection}{\numberline {7.2.1}L'offre de travail}{79}
 \contentsline {subsection}{\numberline {7.2.2}La demande de travail}{80}
 \contentsline {subsection}{\numberline {7.2.3}L'\IeC {\'e}quilibre du march\IeC {\'e} du travail}{81}
